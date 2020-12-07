@@ -1,0 +1,9 @@
+# File Ignoring
+*.iml
+*.log
+*.jar
+*.war
+
+# Folder Ignoring
+target/
+.idea
